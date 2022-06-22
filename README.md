@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h3 align="center">Olá! Mikaias aqui.</h3>
+<p align="center">estudante e desenvolvedor focado em front-end</p>
+<hr>
 <!--
 **mikayas/mikayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
