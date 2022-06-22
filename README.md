@@ -1,6 +1,8 @@
+<img width="100%" height="200px" src="https://media.discordapp.net/attachments/989144638952710166/989144841243996201/IMG_20220622_084917.png"/>
+<hr/>
 <h3 align="center">Olá! Mikaias aqui.</h3>
 <p align="center">estudante e desenvolvedor focado em front-end</p>
-<hr>
+<hr/>
 <!--
 **mikayas/mikayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
