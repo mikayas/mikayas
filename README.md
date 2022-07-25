@@ -11,7 +11,7 @@
   <img style="display: inline-block;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
 <div align="center">
-    acesse meu portfólio <a href="https://mikayas.github.io/portfolio">clicando aqui</a> 
+    acesse meu portfólio <a href="https://mikayas.github.io/portfolio" target="_blank">clicando aqui</a> 
 </div>
           
 <!--
